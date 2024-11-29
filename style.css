@@ -55,7 +55,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     justify-content: center;
     display: flex; /* Centra el contenido horizontalmente */
-    background-color: rgb(202, 177, 144); /* Fondo marrón */
+    background-color: rgb(63, 49, 32); /* Fondo marrón */
     font-size: 20px;
     background-size: 80px; /* Define el tamaño del fondo (si se aplica una imagen) */
     position: fixed;
@@ -68,7 +68,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #333; /* Fondo oscuro */
+    background-color: #361818; /* Fondo oscuro */
     padding: 15px 30px; /* Espaciado interno */
     position: fixed;
     top: 0;
