@@ -79,7 +79,9 @@ body {
     align-items: center;
     /* Ancho fijo */
 }
-
+.background-brown .H3{
+    justify-content: center;
+}
 /* Sección: Barra de navegación */
 .navbar {
     display: flex;
